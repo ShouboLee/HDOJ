@@ -11,5 +11,6 @@ public class HD1720 {
             b = Integer.valueOf(s[1],16);
             System.out.println(a+b);
         }
+        in.close();
     }
 }
