@@ -20,5 +20,6 @@ public class HD2011 {
             }
             System.out.printf("%.2f\n\n", sum);
         }
+        in.close();
     }
 }
