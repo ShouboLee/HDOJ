@@ -25,5 +25,6 @@ public class HD2091 {
                 System.out.print(ch);
             System.out.println();
         }
+        in.close();
     }
 }
